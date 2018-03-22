@@ -1,0 +1,38 @@
+img {
+    margin: 70px;
+    padding: 70px;
+    border: 1px solid #4CAF50;
+    }
+p{
+    text-align: justify;
+    font-family: Verdana, "Times New Roman", Times, serif;
+}
+head{
+    background-color: lightgrey;
+}
+body{
+    background-color: lightgrey;
+}
+header{
+    text-align: center;
+    font-family: Verdana;
+    background-color: Black;
+    color: white;
+ }
+
+.borderparagraph{
+    border: 1px solid #4CAF50;
+}
+
+
+#currydesc {
+    background-color: grey;
+}
+
+#curryname {
+    background-color: lightblue;
+}
+footer{
+    font-family: Verdana;
+    color: blue;
+ }
